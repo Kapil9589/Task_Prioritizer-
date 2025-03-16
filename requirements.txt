@@ -1,0 +1,5 @@
+streamlit==1.17.1      # Streamlit version compatible with your app
+pandas==1.4.2          # For data manipulation
+numpy==1.21.6          # For numerical calculations
+scikit-learn==1.0.2    # For ML algorithms
+joblib==1.1.0          # For saving/loading models
